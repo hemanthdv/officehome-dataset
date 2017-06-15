@@ -15,7 +15,7 @@ The images in the dataset were collected using a python web-crawler that crawled
 
 | Domain     | Min: # |Max: Size              |  Acc.         |
 | :--------- |:------:|:---------------------:|:-------------:|
-| Art        | 15     | 4384$$\times$$2686 pix. |44.99$\pm$1.85 |
-| Clipart    | 39     | 2400$$\times$$2400 pix. |53.95$\pm$1.45 |
-| Product    | 38     | 2560$$\times$$2560 pix. |66.41$\pm$1.18 |
-| Real-World | 23     | 6500$$\times$$4900 pix. |59.70$\pm$1.04 |
+| Art        | 15     | 4384$$\times$$2686 pix. |44.99$$\pm$$1.85 |
+| Clipart    | 39     | 2400$$\times$$2400 pix. |53.95$$\pm$$1.45 |
+| Product    | 38     | 2560$$\times$$2560 pix. |66.41$$\pm$$1.18 |
+| Real-World | 23     | 6500$$\times$$4900 pix. |59.70$$\pm$$1.04 |
